@@ -18,10 +18,15 @@ Saves the websites in `.txt` file.
 
 2. <strong>PyGame: Blob</strong>
 
-In this PyGame, 3 color blobs are eating each other. The bigger blob eats the smaller blob when it touches. 
+In this Python Game, 3 color blobs are eating each other. The bigger blob eats the smaller blob when it touches. 
 [Python Game](https://github.com/mrbalikci/object-oriented-programming/blob/master/BlobGame/blob.py)
 
+* GIF 1: At the beginning 
 ![alt text](https://github.com/mrbalikci/object-oriented-programming/blob/master/BlobGame/blob.gif "The Blob Game")
+
+* GIF 2: After a while
+![alt text](https://github.com/mrbalikci/object-oriented-programming/blob/master/BlobGame/blob.gif "The Blob Game")
+
 
 ### Tools Used
 * Python
