@@ -8,7 +8,7 @@ Object-oriented programming (OOP) is a programming language model organized arou
 This code provides to crawl in the web and collect as much as link possible. 
 Saves the websites in `.txt` file. 
 
-[Web Crawler](https://github.com/mrbalikci/object-oriented-programming/blob/master/web_crawler.py)
+* [Web Crawler](https://github.com/mrbalikci/object-oriented-programming/blob/master/web_crawler.py)
 
 ### Tools Used
 * Python 
@@ -18,8 +18,9 @@ Saves the websites in `.txt` file.
 
 ## <strong>PyGame: Blob</strong>
 
-In this Python Game, 3 color blobs are eating each other. The bigger blob eats the smaller blob when it touches. 
-[Python Game](https://github.com/mrbalikci/object-oriented-programming/blob/master/BlobGame/blob.py)
+In this Python Game, 3 color blobs are eating each other. The bigger blob eats the smaller blob when it touches.
+
+* [Python Game](https://github.com/mrbalikci/object-oriented-programming/blob/master/BlobGame/blob.py)
 
 * GIF 1: At the beginning 
 ![alt text](https://github.com/mrbalikci/object-oriented-programming/blob/master/BlobGame/blob.gif "The Blob Game")
