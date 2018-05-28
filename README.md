@@ -25,7 +25,7 @@ In this Python Game, 3 color blobs are eating each other. The bigger blob eats t
 ![alt text](https://github.com/mrbalikci/object-oriented-programming/blob/master/BlobGame/blob.gif "The Blob Game")
 
 * GIF 2: After a while
-![alt text](https://github.com/mrbalikci/object-oriented-programming/blob/master/BlobGame/blob.gif "The Blob Game")
+![alt text](https://github.com/mrbalikci/object-oriented-programming/blob/master/BlobGame/blob2.gif "The Blob Game")
 
 
 ### Tools Used
