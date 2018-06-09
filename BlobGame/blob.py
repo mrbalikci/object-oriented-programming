@@ -4,7 +4,7 @@ import random
 
 class Blob:
     
-    # first method 
+    # first method to use 
 
     def __init__(self, color, x_boundary, y_boundary, size_range = (4,8), movement_range=(-1,2)):
         
@@ -12,6 +12,7 @@ class Blob:
         self.color = color
         self.x_boundary = x_boundary
         self.y_boundary = y_boundary
+
 
         self.x = random.randrange(0, self.x_boundary)
         self.y = random.randrange(0, self.y_boundary)
@@ -28,5 +29,6 @@ class Blob:
         if self.x < 0: self.x = 0
         elif self.x > self.x_boundary: self.x = self.x_boundary
         
+
         if self.y < 0: self.y = 0
         elif self.y > self.y_boundary: self.y = self.y_boundary

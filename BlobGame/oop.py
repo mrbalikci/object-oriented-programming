@@ -28,7 +28,7 @@ clock = pygame.time.Clock()
 
 
 # child class or sub class to handle boundries, and colors
-# main class for blob -- blue 
+# main class for blob -- blue colors
 class BlueBlob(Blob):
     
     def __init__(self, x_boundary, y_boundary):
